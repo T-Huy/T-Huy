@@ -11,14 +11,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="left">
-  <img height="0" src=""  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -84,5 +76,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/T-Huy/T-Huy/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/T-Huy/T-Huy/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/T-Huy/T-Huy/output/snake.svg" alt="Snake animation" />
 
 ###
